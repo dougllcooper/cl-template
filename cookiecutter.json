@@ -1,0 +1,11 @@
+{
+    "project_name": "cookie-lisp-project",
+    "repo_name": "{{ cookiecutter.project_name }}",
+    "description": "",
+    "version": "0.1.0",
+    "year": 2024,
+    "author": "Doug Cooper",
+    "email": "dougllcooper@gmail.com",
+    "username": "dougllcooper@gmail.com",
+    "licence": "MIT"
+}
