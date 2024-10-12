@@ -1,6 +1,6 @@
 # cl-cookieproject
 
-This is a cookiecutter template for Common Lisp.  It's mainly a copy of vindarel/cl-cookiecutter repo with a few changes.  Removed the travis config (never used it), and removed the roswell directory.  I use roswell but the directory is just a ros recipe to build an executable.  Added a few commands to the hooks script to initialize qlot and install dependencies.  It also adds ultralisp to qlot.
+This is a cookiecutter template for Common Lisp.  It's mainly a copy of vindarel/cl-cookiecutter repo with a few changes.  Removed the travis config (never used it).  Added a few commands to the hooks script to initialize qlot and install dependencies.  It also adds ultralisp to qlot.
 Everything after this is the original README.
 
 A [cookiecutter](https://github.com/audreyr/cookiecutter) template for Common Lisp projects featuring:
