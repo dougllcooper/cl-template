@@ -1,4 +1,4 @@
-LISP ?= sbcl
+LISP ?= qlot exec sbcl
 
 all: test
 
